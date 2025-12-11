@@ -1,0 +1,14 @@
+[package]
+name = "mork-rust-sdk"
+version = "0.1.0"
+edition = "2024"
+authors = ["Mork"]
+description = "A Rust client to work with MORK."
+license = "MIT"
+repository = "https://github.com/iCog-Labs-Dev/mork-rust-sdk.git"
+readme = "README.md"
+keywords = ["sdk", "rust"]
+categories = ["api-bindings"]
+
+
+[dependencies]
